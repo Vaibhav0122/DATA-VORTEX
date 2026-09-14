@@ -217,7 +217,7 @@ No data transformation will be applied without an identifiable reason.
 
 ---
 
-# ✅ Data Validation
+#  Data Validation
 
 After cleaning, the dataset is validated to ensure that the transformations have not introduced new inconsistencies.
 
